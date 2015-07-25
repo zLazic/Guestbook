@@ -1,0 +1,80 @@
+.container-form {
+    margin-left: 40%;
+    margin-top: 15%;
+}
+
+#content {
+    margin-bottom: 100px;
+}
+
+h2 {
+margin-left: 10%;
+}
+
+h2.imp-title {
+    margin-left: 6%;
+}
+
+h2.imp-list {
+    font-size: 36px;
+    margin-left: 40%;
+    margin-bottom: 7%;
+    font-weight: bold;
+}
+
+table .heightUP {
+    height: 100px;
+}
+
+form input {
+    width: 400px;
+    height: 50px;
+    margin-bottom: 30px;
+    font-size: 22px;
+    padding: 20px;
+}
+
+form textarea {
+    width: 400px;
+    height: 140px;
+    font-size: 22px;
+    padding: 20px;
+    margin-bottom: 30px;
+}
+
+form .button  {
+    padding: 0;
+}
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    /* Set the fixed height of the footer here */
+    height: 60px;
+    background-color: #121212;
+    padding: 20px;
+    color: #ecf0f1;
+    text-align: center;
+}
+
+.footer .foot {
+     color: #f1c40f;
+     font-size: 16px;
+    font-weight: bold;
+    -webkit-transition: transform 0.5s;
+    -moz-transition: transform 0.5s;
+    -ms-transition: transform 0.5s;
+    transition: transform 0.5s;
+}
+
+.footer .foot:hover {
+    transform: rotateY(360deg);
+    -webkit-transform: rotateY(360deg);
+    -moz-transform: rotateY(360deg);
+    -ms-transform: rotateY(360deg);
+}
+
+body .reset {
+    margin-right: 0;
+}
